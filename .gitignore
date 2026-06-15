@@ -1,5 +1,8 @@
-# Data files
+# Data files 
 data/
+
+# Generated outputs
+assets/
 *.7z
 *.zip
 *.csv
