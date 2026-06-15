@@ -3,6 +3,7 @@ data/
 
 # Generated outputs
 assets/
+assets_2/
 *.7z
 *.zip
 *.csv
